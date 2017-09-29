@@ -1,6 +1,7 @@
 ## Who am I?
+- My name is Caroline!
 - I'm a senior at Carnegie Mellon University
-- I study Electrical & Computer Engineering and Art
+- I study Electrical & Computer Engineering and Art 
 - Creative coding is a major way I express myself!
 - [Project 1](https://caro.io/close-but-not-too-close)
 - [Project 2](https://caro.io/ultrasonic-exploration)
