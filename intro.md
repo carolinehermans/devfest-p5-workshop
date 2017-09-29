@@ -14,7 +14,6 @@ Creative coding is a type of computer programming in which the goal is to create
 - [Gene Kogan: explorations with Neural Networks](https://twitter.com/genekogan/status/909463712406343680)
 
 ## What is Processing?
-[Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.]
-(https://processing.org/)
+[Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.](https://processing.org/)
 
 
