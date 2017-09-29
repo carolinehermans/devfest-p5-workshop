@@ -1,4 +1,4 @@
-## Lesson 4: More cool stuff you can do
+## Epilogue: More cool stuff you can do
 
 30 minutes is not a lot of time to cover all the amazing stuff you can do with processing! 
 Now that you know the basics, you can do even more amazing stuff.
