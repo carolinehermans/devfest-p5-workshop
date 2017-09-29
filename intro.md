@@ -12,7 +12,7 @@ Creative coding is a type of computer programming in which the goal is to create
 - [Saskia Freeke: geometric animations with Processing](https://twitter.com/sasj_nl)
 - [Gene Kogan: explorations with Neural Networks](https://twitter.com/genekogan/status/909463712406343680)
 
-## What is Processing?
-[Processing is a flexible software sketchbook and a language for learning how to code within the context of visual art.](https://processing.org/)
+## What is p5.js?
+[p5.js is a JavaScript library created with the goal of making coding accessible for educators, artists, and designers.](https://processing.org/)
 
 
