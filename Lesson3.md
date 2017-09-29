@@ -108,5 +108,33 @@ function draw() {
 }
 ```
 
+You can even make a little drawing app that draws blue when no key is pressed and red when a key is pressed.
+
+```javascript
+function setup() {
+	createCanvas(window.innerWidth, window.innerHeight);
+	background('black');
+}
+
+function draw() {
+	fill('green');
+	stroke(0, 0, 0);
+	strokeWeight(2);
+	
+
+	var shapeW = 10;
+	var shapeH = 10;
+
+	if (keyIsPressed) { 
+		fill('red');
+	} else {
+		fill('blue');
+		
+	}
+
+	ellipse(mouseX, mouseY, shapeW, shapeH);
+}
+```
+
 
 
