@@ -3,24 +3,24 @@
 Now you have a background, let's draw something on it. We'll start with our code from the end of lesson 1:
 
 ``` javascript
-void setup() {
+function setup() {
   createCanvas(window.innerWidth, window.innerHeight)
   background('pink');
 }
 
-void draw() {
+function draw() {
 } 
 ```
 
 Let's add a circle.
 
 ``` javascript
-void setup() {
+function setup() {
   createCanvas(window.innerWidth, window.innerHeight)
   background('pink');
 }
 
-void draw() {
+function draw() {
   ellipse(0, 0, 100, 100);
 } 
 ```
@@ -29,12 +29,12 @@ Ooh, that circle looks really cut off. Remember when we said it was in the top l
 Let's put it in the middle.
 
 ``` javascript
-void setup() {
+function setup() {
   createCanvas(window.innerWidth, window.innerHeight)
   background('pink');
 }
 
-void draw() {
+function draw() {
   ellipse(window.innerWidth/2, window.innerHeight/2, 100, 100);
 } 
 ```
@@ -43,12 +43,12 @@ What if we want to draw a rectangle?
 
 
 ``` javascript
-void setup() {
+function setup() {
   createCanvas(window.innerWidth, window.innerHeight)
   background('pink');
 }
 
-void draw() {
+function draw() {
   rect(window.innerWidth/2, window.innerHeight/2, 100, 100);
 } 
 ```
