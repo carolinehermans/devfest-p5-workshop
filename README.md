@@ -1,4 +1,4 @@
-# Hello! Welcome to the Creative Coding Codelab!
+# Hello! Welcome to the Creative Coding Code Lab!
 My name is Caroline Hermans.
 
 ## Set up:
