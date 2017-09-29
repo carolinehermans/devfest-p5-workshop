@@ -6,7 +6,7 @@
 - [Project 2](https://caro.io/ultrasonic-exploration)
 - [Bonus: messing around](https://scontent.fagc2-1.fna.fbcdn.net/v/t42.1790-26/14260532_169305026807163_238271871_n.mp4?efg=eyJybHIiOjcwMiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&rl=702&vabr=390&oh=27660ecad63e50c008d381b6f4611244&oe=59CEF66F)
 
-## What can you do with creative coding?
+## What is creative coding?
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional.
 
 - [Zach Lieberman: daily code sketches with OpenFrameworks](https://www.instagram.com/zach.lieberman)
