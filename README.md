@@ -4,6 +4,7 @@ My name is Caroline Hermans!
 ## Set up:
 1. If you don't have a text editor, download Sublime Text: https://www.sublimetext.com/
 2. Download p5.js: https://p5js.org/download/
+3. Introduce yourself to someone
 
 ## Schedule:
 - (5 min) [Intro: What is Creative Coding?](https://github.com/carolinehermans/devfest-p5-workshop/blob/master/intro.md)
@@ -14,7 +15,7 @@ My name is Caroline Hermans!
 
 
 
-### Note: There is way more to learn about p5.js than I can possibly pack into 30 minutes! The website is incredible and has TONS of wonderful examples and references to help you explore. After today, I hope you'll all have the tools to go continue exploring the wonderful world of creative coding.
+### Note: There is way more to learn about p5.js than I can possibly pack into 30 minutes! After today, I hope you'll all have the tools to go continue exploring the wonderful world of creative coding.
 
 - [p5.js Reference](https://p5js.org/reference/)
 - [p5.js Example Projects](https://p5js.org/examples/)
